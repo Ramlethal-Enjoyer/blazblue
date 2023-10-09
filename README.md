@@ -1,1 +1,1 @@
-# ramlethal-enjoyer2.github.io
+# https://ramlethal-enjoyer.github.io/blazblue/
